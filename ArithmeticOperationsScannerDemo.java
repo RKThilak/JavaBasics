@@ -12,7 +12,7 @@ public class ArithmeticOperationsScannerDemo {
 		int sub=a-b;
 		int mul=a*b;
 		int div=a/b;
-		System.out.println("Sum="+sum +" " +"Sub="+sub +" "+"Mul="+mul+" "+"Div="+div );
+		System.out.println("Sum="+sum +" " +"Sub="+sub +" "+"Mul="+mul+" "+" "+"Div="+div );
 		}
 	}
 
