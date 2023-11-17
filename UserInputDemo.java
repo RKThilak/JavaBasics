@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	System.out.println("My name is "+name);
 	System.out.println("Enter your Age");
 	int age=sc.nextInt();
-	System.out.println("I'm"+age +" old");
+	System.out.println("I'm"+age +" " +" old");
 	System.out.println();
 	System.out.println("Enter your Marks");
 	float marks=sc.nextFloat();
